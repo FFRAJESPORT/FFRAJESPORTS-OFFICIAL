@@ -23,4 +23,10 @@
 
 ---
 
+
+
+
+
+
+
 > **Disclaimer**: This is not an official Garena Free Fire app. FFRAJESPORTS is a fan-made platform to support Free Fire gamers and tournaments. All users participate at their own responsibility.
