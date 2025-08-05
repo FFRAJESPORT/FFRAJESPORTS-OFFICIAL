@@ -2,18 +2,21 @@
 
 **FFRAJESPORTS** is an exciting Free Fire Tournament App built for esports lovers. Join custom rooms, compete in matches, track your scores, and win daily rewards easily from your mobile. Whether you're a BR (Battle Royale), CS (Clash Squad), or Lone Wolf player – we’ve got you covered.
 
-### Download the App👇
-📲 [download the APP](https://ga-fs.primexop.com/4314/androidBuilds/ff-raj-esportsV2.apk)
+ 📲 [DOWNLOAD APP](https://ga-fs.primexop.com/4314/androidBuilds/ff-raj-esportsV2.apk)
 
 ---
 
 ### Features:
 - ✅ Free Fire Custom Matches
+- ✅Daily match
 - 🎮 BR, CS, and Lone Wolf Supported Modes
-- 📈 Live Score Tracking 
+- 📈 Live leaderboard
 - 💸 Daily Match Win & Reward 
 - 🔐 Secure Payment System
 - 📱 Easy-to-use Mobile Interface
+-  ✅24×7 Customer Support
+- 
+- use Referral code:barman
 - 
 
 ### Contact & Support
