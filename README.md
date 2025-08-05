@@ -5,7 +5,7 @@
 ### Features:
 - ✅ Free Fire Custom Matches
 - 🎮 BR, CS, and Lone Wolf Supported Modes
-- 📈 Live Score Tracking
+- 📈 Live Score Tracking 
 - 💸 Daily Rewards for Winners
 - 🔐 Secure Payment System
 - 📱 Easy-to-use Mobile Interface
